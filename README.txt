@@ -1,3 +1,8 @@
+"Este é uma mini atividade de faculdade que eu, Halry, desenvolvi 
+para resolver esta atividade. A atividade era basicamente 
+criar um formulário de cadastro de prestadores de serviço."
+
+
 EU PERDI UNS DOIS DIAS INTEIROS FAZENDO ISSO.
 
 Assinado: Halry.
