@@ -1,0 +1,141 @@
+.grupo {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 0.5%;
+    gap: 0.5%;
+    flex-wrap: wrap;
+    width: 75%;
+    border: 1px solid #374956;
+    border-radius: 5px;
+}
+
+.btn-acoes {
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#acoes-table {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 100%;
+    gap: 5%;
+    flex-direction: row;
+}
+
+#tabela-prestadores {
+    border-radius: 7px;
+    border: 2px solid #374956;
+}
+
+table {
+    margin-bottom: 0;
+}
+
+table > tbody > tr > td {
+    font-size: 15px;
+    border: 2px solid #374956;
+}
+
+
+table > thead > tr > th {
+    border: 2px solid #374956 !important; 
+}
+
+body {
+    padding: 0.5%;
+}
+
+.input-text {
+    height: 50% !important;
+}
+
+#formulario {
+    align-self: center;
+}
+
+#fieldset-atividade {
+    width: 100%;
+    display: flex;
+    padding: 2%;
+    gap: 6.5%;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+#fieldset-regiao {
+    width: 100%;
+    padding: 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6.5%;
+}
+
+*::-webkit-scrollbar {
+    width: 0;
+}
+
+h2 {
+    align-self: center;
+    text-align: center;
+    margin-bottom: 2.5% !important;
+}
+
+.input-data {
+    width: 90% !important;
+}
+
+#periodo {
+    width: 100%;
+    height: 90%;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid #374956;
+    border-radius: 5px;
+    align-items: center;
+    align-content: center;
+}
+
+.btns-form-prestador {
+    width: 50%;
+}
+
+
+.acoes {
+    display: flex;
+    border: 1px solid #374956;
+    border-radius: 5px;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#data-div {
+    display: flex;
+}
+
+.erro {
+    display: none;
+    color: red;
+    font-weight: 550;
+}
+
+#div-erro {
+    display: flex;
+    gap: 3%;
+}
+
+.delete-btn {
+    margin-bottom: 0;
+}
+
+.excluir-td {
+    display: flex;
+    justify-content: center;
+}
